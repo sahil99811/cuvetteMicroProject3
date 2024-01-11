@@ -57,4 +57,3 @@ console.log(sortByProtein());
 console.log("\nList all the food items with lowest carb content to highest:");
 console.log(sortByCab());
 
-console.log(data)
